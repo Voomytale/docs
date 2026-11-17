@@ -4,7 +4,14 @@ A voice-first AI storytelling companion for children.
 
 ## Project Overview
 
-Voomytale is a voice-first AI companion that entertains and educates young children through interactive stories, playful games, and warm answers to their endless "why?" questions. It is designed so **voice is all you need** — no screen required to enjoy it — with only a few simple, optional controls. Voomytale is under active development.
+Voomytale is a voice-first AI companion that entertains and educates young children through interactive stories, playful games, and warm answers to their endless "why?" questions. It is designed so **voice is all you need** — no screen required to enjoy it — with only a few simple, optional controls.
+
+Our animated stories for children are already published:
+
+- **YouTube:** [youtube.com/@voomytale](https://www.youtube.com/@voomytale)
+- **Spotify podcast:** [Voomytale on Spotify](https://open.spotify.com/show/2kYeEtG2BivEXiz6E4Pgdj)
+- **Spotify video stories:** [Voomytale video stories](https://open.spotify.com/show/06jMD0isKHn6JfD4DWi1cA)
+- **Website:** [voomytale.com](https://voomytale.com)
 
 ## Problem Space
 
@@ -17,14 +24,14 @@ Families want screen-free, age-appropriate entertainment that:
 
 Generic voice assistants and open-ended AI aren't built for young children, and screens aren't always appropriate or possible. Voomytale focuses on a warm, safe, voice-first experience made specifically for kids.
 
-## What Voomytale Does
+## What the Voomytale App Is Designed To Do
 
-- Tells interactive, branching stories narrated by a friendly mascot character
-- Plays quizzes and playful mini-games woven into the stories
-- Answers children's curious questions in warm, age-appropriate language
-- Remembers favorite themes and can continue a story another day
-- Speaks multiple languages
-- Works across everyday moments and devices
+- Tell interactive, branching stories narrated by a friendly mascot character
+- Play quizzes and playful mini-games woven into the stories
+- Answer children's curious questions in warm, age-appropriate language
+- Remember favorite themes and continue a story another day
+- Speak multiple languages
+- Work across everyday moments and devices
 
 ## Experience Principles
 
@@ -87,6 +94,10 @@ See [PUBLIC-REPO-NOTICE.md](PUBLIC-REPO-NOTICE.md) for terms of use.
 This repository is for informational purposes only. Materials are not licensed for reuse, redistribution, or derivative work without explicit permission.
 
 **This is NOT an open-source project.** All rights reserved.
+
+## Founder
+
+Voomytale was founded in July 2026 by **Evgeniy Gusman** ([LinkedIn](https://www.linkedin.com/in/evgeniy-gusman)).
 
 ## Contact
 
